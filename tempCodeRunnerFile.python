@@ -1,0 +1,6 @@
+num = [1, 2, 3, 4, 75,6]
+for num in range(10):
+    if(num==5):
+        print(num)
+    else:
+        continue
